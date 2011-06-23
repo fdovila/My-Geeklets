@@ -4,7 +4,7 @@ This is my repo for the geeklets I use.
 
 What's a geeklet?
 -----------------
-It's a tiny script run by a Mac OS X app called GeekTool, made by [Yann Bizeul](http://projects.tynsoe.org/en/ "Link to his site")  [Stack Overflow profile](http://stackoverflow.com/users/318858/yann-bizeul "Link to his SO profile")
+It's a tiny script run by a Mac OS X app called GeekTool, made by [Yann Bizeul (Site)](http://projects.tynsoe.org/en/ "Link to his site")  [, also you can check his Stack Overflow profile](http://stackoverflow.com/users/318858/yann-bizeul "Link to his SO profile")
 
 	In the words of Yann:
 		" Geek Tool is a file plugin to monitor MacOS X activity with   
