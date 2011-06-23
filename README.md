@@ -1,6 +1,6 @@
 My Geeklets
 ===========
-This is my repo for the geeklets I use.
+This is the repo for the geeklets I use.
 
 What's a geeklet?
 -----------------
